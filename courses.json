@@ -1,0 +1,26 @@
+{
+	"mtheory":{
+		"name": "AP Music Theory",
+		"num": 5,
+		"categories": ["Classwork/Homework", "ProgressAssessments", "MasteryAssessments"],
+		"weights": [50, 25, 25]
+	}, 
+	"ada":{
+		"name": "Advanced Data Analysis",
+		"num": 9,
+		"categories": ["FinalExam", "Classwork/Homework", "MasteryAssessments", "ProgressAssessments"],
+		"weights": [15, 30, 40, 15]
+	},
+	"lit":{
+		"name": "AP English Literature & Composition",
+		"num": 8,
+		"categories": ["Mastery/ProgressAssessments", "Classwork/Homework", "FinalExam"],
+		"weights": [50, 35, 15]
+	},
+	"anatomy":{
+		"name": "Anatomy/Physiology (H)",
+		"num": 6,
+		"categories": ["Classwork/Labs/Homework", "Quizzes/Tests", "FinalExam"],
+		"weights": [35, 50, 15]
+	}
+}
